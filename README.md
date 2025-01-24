@@ -1,8 +1,16 @@
 # Kokoro - Z世代の恋愛相談コミュニティ
 
-![Kokoro](https://nayami.vercel.app/og.png)
-
 恋愛の悩みをみんなで解決するZ世代向けコミュニティプラットフォーム。
+
+> **Note**  
+> 現在このプロジェクトはフロントエンドのUIプロトタイプのみが実装されています。  
+> バックエンド機能（認証、データベース、API等）は未実装の状態です。
+
+## 🎬 デモ
+
+<div align="center">
+  <img src="public/assets/demo.gif" alt="Kokoroデモ" width="720px" />
+</div>
 
 ## 🌟 特徴
 
