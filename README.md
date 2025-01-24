@@ -9,7 +9,7 @@
 ## 🎬 デモ
 
 <div align="center">
-  <img src="public/assets/demo.gif" alt="Kokoroデモ" width="720px" />
+  <img src="assets/demo.gif" alt="Kokoroデモ" width="720px" />
 </div>
 
 ## 🌟 特徴
